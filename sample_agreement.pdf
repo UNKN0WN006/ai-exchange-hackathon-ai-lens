@@ -1,0 +1,36 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 273 >>
+stream
+BT
+/F1 12 Tf
+72 720 Td
+(This Rental Agreement is subject to the following terms: The tenant must pay rent on the first day of each month. Failure to pay within five days will result in a late fee of $50. The landlord may terminate the agreement with 30 days’ written notice. The tenant is responsible for any damages beyond normal wear and tear. Early termination by the tenant will incur a penalty equal to one month’s rent.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000060 00000 n 
+0000000111 00000 n 
+0000000272 00000 n 
+0000000491 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+590
+%%EOF
