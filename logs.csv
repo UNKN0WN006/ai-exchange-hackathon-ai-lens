@@ -1,0 +1,54 @@
+"Upon early termination of this agreement by the client, a penalty fee of $200 shall be payable. The client must provide written notice at least 30 days in advance. Failure to comply may result in additional charges or legal action.'
+
+","[Error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+]","High","[Error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+]"
+"Upon early termination of this agreement by the client, a penalty fee of $200 shall be payable. The client must provide written notice at least 30 days in advance. Failure to comply may result in additional charges or legal action.
+
+","[Error: Incorrect API key provided: sk-...yo*****y.... You can find your API key at https://platform.openai.com/account/api-keys.]","High","[Error: Incorrect API key provided: sk-...yo*****y.... You can find your API key at https://platform.openai.com/account/api-keys.]"
+"Upon early termination of this agreement by the client, a penalty fee of $200 shall be payable. The client must provide written notice at least 30 days in advance. Failure to comply may result in additional charges or legal action.
+","[Error: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.]","High","[Error: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.]"
+"Upon early termination of this agreement by the client, a penalty fee of $200 shall be payable. The client must provide written notice at least 30 days in advance. Failure to comply may result in additional charges or legal action.
+","[Error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.]","High","[Error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.]"
+"Upon early termination of this agreement by the client, a penalty fee of $200 shall be payable. The client must provide written notice at least 30 days in advance. Failure to comply may result in additional charges or legal action.
+","Okay, here's the simplified explanation of that legal text:  **Simplified Explanation:**  Basically, if you (the client) want to end this agreement *before* the agreed-upon end date, you'll have to pay a $200 fee.  You also *have* to tell the other party you're quitting at least 30 days beforehand, and in writing (like a letter or email). If you don't give them that 30-day written notice, they might charge you more money or even sue you.","High","Okay, here's the plain English breakdown:
+
+*   **If you end this agreement early, you'll have to pay a $200 fee.**
+*   **You need to tell us you're ending it at least 30 days before you actually stop.** This needs to be in writing.
+*   **If you don't give us 30 days' notice, you might have to pay more money or we might take legal action.**"
+"Upon early termination of this agreement by the client, a penalty fee of $200 shall be payable. The client must provide written notice at least 30 days in advance. Failure to comply may result in additional charges or legal action.
+","If you end this agreement early, you will owe a $200 fee. You must give us written notice 30 days before ending the agreement. If you don't, you could face extra charges or a lawsuit.","High","*   If you end the agreement early, you owe a $200 penalty fee.
+*   You must give written notice 30 days before ending the agreement.
+*   Not providing proper notice may lead to more fees or a lawsuit."
+"Upon early termination of this agreement by the client, a penalty fee of $200 shall be payable. The client must provide written notice at least 30 days in advance. Failure to comply may result in additional charges or legal action.
+","If you end this agreement early, you will owe a $200 fee. You must notify us in writing at least 30 days beforehand. If you don't, you could face extra costs or legal consequences.","High","*   Ending the agreement early requires paying a $200 penalty fee.
+*   You must give written notice 30 days before ending the agreement.
+*   Not providing proper notice could lead to extra costs or a lawsuit."
+"Upon early termination of this agreement by the client, a penalty fee of $200 shall be payable. The client must provide written notice at least 30 days in advance. Failure to comply may result in additional charges or legal action.
+","If you end this agreement early, you must pay a $200 fee. You also need to give us written notice 30 days before you want to end it. If you don't, you may have to pay extra costs or face legal action.","High","*   **Penalty:** Client owes a $200 fee for ending the agreement early.
+*   **Notice:** Client must give written notice 30 days before ending the agreement.
+*   **Risk:** Failing to give proper notice may lead to extra charges or a lawsuit."
+"Upon early termination of this agreement by the client, a penalty fee of $200 shall be payable. The client must provide written notice at least 30 days in advance. Failure to comply may result in additional charges or legal action.
+","If you end this agreement early, you must pay a $200 fee. You must also tell us in writing at least 30 days before you want to end the agreement. If you don't, you may have to pay extra fees or face legal action.","High","*   Ending the agreement early costs $200.
+*   You must give a written notice 30 days before ending the agreement.
+*   Not providing proper notice can lead to extra fees or a lawsuit."
+"By using this service, you agree to provide accurate information and consent to the collection and sharing of your data with third parties for marketing purposes. Failure to comply with these terms may result in suspension or termination of your account, and you may be liable for any damages or fees incurred.","When you use this service, you promise that the information you give is correct. You also agree that we can collect and share your information with other companies for advertising. If you break these rules, your account may be suspended or closed. You may also have to pay for any losses or costs that result from your actions.","High","*   You must provide truthful information when using the service.
+*   Your data can be collected and shared with other companies for advertising.
+*   Your account may be suspended or closed if you don't follow the rules.
+*   You could be responsible for costs or harm caused by violating the terms."
