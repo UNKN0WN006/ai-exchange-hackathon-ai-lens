@@ -1,5 +1,8 @@
 # Legal Lens: AI-Powered Legal Document Demystifier
 
+
+Link: https://ai-exchange-hackathon-ai-legal-lens-fshc5tctfkabujrcuenbnx.streamlit.app/
+
 ## Problem Statement
 Legal documents are hard to read, especially for youth and non-experts. Complex terms, hidden risks, and legal jargon make it tough to understand what you’re agreeing to. This can lead to confusion, missed obligations, or even financial loss.
 
@@ -56,5 +59,7 @@ README.md         # This file
 ```
 
 ## Team
-Made for Google GenAI Exchange Hackathon by Team Legal Lens.
-# ai-exchange-hackathon-ai-lens
+Sushar Hembram - Developer and Tester
+Anay Saha - Designer
+
+###### Made for Google GenAI Exchange Hackathon by Team Legal Lens.
